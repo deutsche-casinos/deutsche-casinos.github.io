@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /go/
 Sitemap: https://deutsche-casinos.github.io/sitemap.xml
-Host: deutsche-casinos.site
+Host: deutsche-casinos.website
